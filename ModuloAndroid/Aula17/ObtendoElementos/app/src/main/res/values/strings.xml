@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ObtendoElementos</string>
+    <string name="mensagem_par">É par</string>
+    <string name="mensagem_impar">É ímpar</string>
+</resources>
