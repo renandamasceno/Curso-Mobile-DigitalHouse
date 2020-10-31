@@ -1,4 +1,4 @@
-package com.renan.aulaviewpager
+package com.renan.viewpager
 
 import org.junit.Test
 
